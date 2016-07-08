@@ -4,6 +4,10 @@ sameh*
 sameh/
 *sameh*
 
+data*
+data/
+*data*
+
 #Ipython Notebook
 .ipynb_checkpoints
 
